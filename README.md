@@ -1,0 +1,1 @@
+Very simple service that demonstrates socket.io koa, babel, controller endpoints, web socket and isomorphic redux architecture
